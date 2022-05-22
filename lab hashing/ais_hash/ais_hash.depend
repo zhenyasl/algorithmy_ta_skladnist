@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653260970 source:c:\users\женя\desktop\ais_hash\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
